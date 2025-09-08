@@ -23,4 +23,4 @@ Frontend: React + Vite
 
 Styling: CSS
 
-API: Public Movie API (TMDB or similar)
+API: Public Movie API (TMDB)
